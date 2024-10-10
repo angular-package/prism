@@ -8,9 +8,13 @@ The angular-package supports the development process of [angular](https://angula
 
 <br>
 
-<a href="https://angular.io"><img src="https://raw.githubusercontent.com/PrismJS/prism/59e5a3471377057de1f401ba38337aca27b80e03/assets/logo.svg" width="92" height="92" /></a>
+<a href="https://angular.io">
+  <img style="background: #000; border-radius: 0.375rem;" src="https://raw.githubusercontent.com/PrismJS/prism/59e5a3471377057de1f401ba38337aca27b80e03/assets/logo.svg" width="92" height="92" />
+</a>
 
 ## Prism
+
+@angular-package/prism
 
 Simple Angular Module and Component of Prism a lightweight, extensible syntax highlighter.
 
