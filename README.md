@@ -8,8 +8,8 @@ The angular-package supports the development process of [angular](https://angula
 
 <br>
 
-<a href="https://angular.io">
-  <img style="background: #000; border-radius: 0.375rem;" src="https://raw.githubusercontent.com/PrismJS/prism/59e5a3471377057de1f401ba38337aca27b80e03/assets/logo.svg" width="92" height="92" />
+<a href="https://angular.io" style="background: #000;">
+  <img src="https://avatars.githubusercontent.com/u/11140484?s=200&v=4" width="92" height="92" />
 </a>
 
 ## Prism
